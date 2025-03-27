@@ -1,5 +1,3 @@
-<img width="997" alt="image" src="https://github.com/user-attachments/assets/5bdc42de-e5fd-4200-bb8d-e001cc5166f7">
-
 ![](https://img.shields.io/github/license/alura-cursos/android-com-kotlin-personalizando-ui)
 
 # Titulo do projeto
